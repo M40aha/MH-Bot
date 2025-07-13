@@ -1,6 +1,8 @@
 # MH-Bot  Your Supportive Bestie 🤍
 Welcome to MH Bot, your friendly and supportive chatbot designed to make your day better!
 This web-based bot is here to talk about your feelings, your day, and even help you pick an outfit — like a true bestie.
+
+
 <img width="1895" height="878" alt="Screenshot 2025-07-07 155739" src="https://github.com/user-attachments/assets/0075d237-d174-4205-80de-fe77b45097a2" />
 <img width="1919" height="1001" alt="Screenshot 2025-07-07 155750" src="https://github.com/user-attachments/assets/023e8fe1-2247-427e-be60-9e9ef32f1fe0" />
 
